@@ -1,4 +1,4 @@
-Model Summary (613556014_期末.ipynb)
+Model Summary
 Mandatory Tasks:
 l 本專案使用 ResNet18 建立圖像分類模型，將每張圖片分類為下列 6 類之一: n a_Good、b_Moderate、c_Unhealthy_for_Sensitive_Groups、
 d_Unhealthy、e_Very_Unhealthy、f_Severe l 模型訓練與驗證準確率皆超過 98%
