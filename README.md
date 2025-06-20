@@ -15,7 +15,7 @@ a_Good、b_Moderate、c_Unhealthy_for_Sensitive_Groups、d_Unhealthy、e_Very_Un
 
 輸出：YU_regression.csv，內容：Filename、AQI_true、AQI_pred、PM2.5_true、PM2.5_pred  
 
-Python 3.9<b>
-PyTorch / torchvision<b>
-matplotlib, sklearn<b>
-ResNet18 預訓練模型<b>
+Python 3.9<br>
+PyTorch / torchvision<br>
+matplotlib, sklearn<br>
+ResNet18 預訓練模型<br>
