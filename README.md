@@ -1,8 +1,7 @@
 ## Model Summary Mandatory Tasks<b>  
 
 Dataset Reference:  
-    https://github.com/ICCC-Platform/Air-Pollution-Image-Dataset-From-India-and-Nepal![image](https://github.com/user-attachments/assets/1d124aa7-71e0-4c1c-be38-2725ece0bf8c)
-
+    https://github.com/ICCC-Platform/Air-Pollution-Image-Dataset-From-India-and-Nepal
 本專案使用 ResNet18 建立圖像分類模型，將每張圖片分類為下列 6 類之一：  
 -    a_Good
 -    b_Moderate
