@@ -1,11 +1,11 @@
-Model Summary Mandatory Tasks:  
+Model Summary Mandatory Tasks
 本專案使用 ResNet18 建立圖像分類模型，將每張圖片分類為下列 6 類之一：  
-  a_Good
-  b_Moderate
-  c_Unhealthy_for_Sensitive_Groups
-  d_Unhealthy
-  e_Very_Unhealthy
-  f_Severe  
+-    a_Good
+-    b_Moderate
+-    c_Unhealthy_for_Sensitive_Groups
+-    d_Unhealthy
+-    e_Very_Unhealthy
+-    f_Severe  
 ---
 模型訓練與驗證準確率皆超過 98%，顯示了測試集的以下評估指標：  
 - Accuracy  
