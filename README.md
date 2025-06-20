@@ -14,3 +14,11 @@ a_Good、b_Moderate、c_Unhealthy_for_Sensitive_Groups、d_Unhealthy、e_Very_Un
 - PM2.5（細懸浮微粒濃度）  
 
 輸出：YU_regression.csv，內容：Filename、AQI_true、AQI_pred、PM2.5_true、PM2.5_pred  
+
+Python 3.9
+
+PyTorch / torchvision
+
+matplotlib, sklearn
+
+ResNet18 預訓練模型
