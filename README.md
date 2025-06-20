@@ -1,4 +1,4 @@
-Model Summary Mandatory Tasks  
+##Model Summary Mandatory Tasks<b>  
 本專案使用 ResNet18 建立圖像分類模型，將每張圖片分類為下列 6 類之一：  
 -    a_Good
 -    b_Moderate
